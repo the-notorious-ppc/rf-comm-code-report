@@ -6,6 +6,10 @@ client_secret.json
 # generated at build time by the workflow
 docs/data.json
 
-python
+# python
 __pycache__/
 *.pyc
+
+# Windows junk
+Thumbs.db
+desktop.ini
